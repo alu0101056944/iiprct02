@@ -4,9 +4,6 @@ Marcos Jesús Barrios Lorenzo
 
 alu0101056944
 
-- (Trabajo realizado)[#trabajo-realizado]
-- (Ejercicios)[#ejercicios]
-
 ### Trabajo realizado
 
 ![Resultado final](assets/finalresult.gif)
