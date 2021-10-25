@@ -52,7 +52,7 @@ Se siguió el guión para el primer ejercicio y se respondió en este mismo docu
     5. **La esfera tiene físicas y el cubo es de tipo IsTrigger y tiene físicas.**
 
 
-     [1e](assets/1e.gif)
+     ![1e](assets/1e.gif)
      
      
     > La esfera es afectada por físicas pero el cubo no, a pesar de tener un componente RigidBody. Es útil para tener más control sobre el objeto a través de scripts cuando sea necesario, es decir, como un interruptor para las fuerzas físicas sin tener que eliminar el componente.
