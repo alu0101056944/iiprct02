@@ -47,7 +47,7 @@ Se siguió el guión para el primer ejercicio y se respondió en este mismo docu
     4. **La esfera tiene físicas y el cubo es de tipo IsTrigger.**
 
 
-    ![1e](assets/1e.gif)
+    ![1d](assets/1d.gif)
     
     
     > La esfera es afectada por físicas y atraviesa el cubo a pesar de que este último contiene un Box Collider.
